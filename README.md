@@ -35,3 +35,10 @@ cd ML-Labs
 jupyter notebook
 ```
 4. Open any .ipynb file to start exploring!
+
+# 🙋‍♂️ Author
+## Nemis Ruparel
+* 🎓 Diploma in Computer Engineering
+* 🏫 Government Polytechnic, Porbandar
+* 📧 nemisruparel@gmail.com
+* 🌐 github.com/NemisRuparel
